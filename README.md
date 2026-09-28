@@ -1,6 +1,6 @@
 # hey, i'm steven 👋
 
-cs student @ wichita state
+cs graduate @ Georgia Tech
 
 I build software, automation tools, and AI systems focused on making things faster, smarter, and more efficient.
 
